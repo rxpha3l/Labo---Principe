@@ -1,0 +1,2 @@
+Python3 -> Pour écrire un programme API
+Dans Python3 -> intaller la bibliothek (si nécéssaire) resquests
